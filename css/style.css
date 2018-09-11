@@ -46,8 +46,9 @@ h2 {
 }
 
 footer {
-  font-size: .5em;
-  position: left;
+  font-size: .7em;
+  right: 0px;
+  top: 2px;
 }
 
 .img-style {
