@@ -59,7 +59,7 @@ h2 {
 }
 
 .logo-images:hover{
-  
+  border: 5px #ccc solid;
 }
 
 
