@@ -68,6 +68,9 @@ footer {
   border: 5px  rgb(111, 127, 122) solid;
 }
 
+.learn-more-link:hover {
+  text-decoration: underline;
+}
 
 
 
