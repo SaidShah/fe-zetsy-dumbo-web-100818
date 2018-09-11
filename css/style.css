@@ -35,6 +35,10 @@ h1 {
   color: rgb(111, 127, 122);
 }
 
+h1:hover{
+  
+}
+
 h2 {
   color: rgb(111, 127, 122);
   font-size: 2em;
