@@ -25,10 +25,10 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	font-family: 'Baskerville', serif;
-	font-size: 4.5em;
-	color: rgb(153, 170, 164);
-	padding: 6px;
-	margin-bottom: 12px;
-	border-bottom: 1px solid;
+  padding-bottom: 10px;
+  margin: 0 0 5px;
+  font-size: 5em;
+  font-weight: normal;
+  font-family: 'Baskerville', serif;
+  border-bottom: 1px solid #ccc;
 }
