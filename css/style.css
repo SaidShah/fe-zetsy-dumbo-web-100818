@@ -40,8 +40,8 @@ h2 {
 }
 
 .img-style {
- border: 5px;
-  background: rgb(111, 127, 122);
+   border: 5px #ccc solid;
+  
 }
 
 
